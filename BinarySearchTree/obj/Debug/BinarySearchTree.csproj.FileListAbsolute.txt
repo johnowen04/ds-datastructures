@@ -1,0 +1,6 @@
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+K:\.lain\.c#\Data Structure\Data Structures\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

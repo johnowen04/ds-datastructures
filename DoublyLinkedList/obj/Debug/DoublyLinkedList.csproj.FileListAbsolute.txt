@@ -1,0 +1,6 @@
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\bin\Debug\DoublyLinkedList.dll
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\obj\Debug\DoublyLinkedList.dll
+K:\.lain\.c#\Data Structure\Data Structures\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
